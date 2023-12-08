@@ -30,7 +30,7 @@ const TextContainer = styled.div`
   );
   backdrop-filter: blur(2px);
   h3 {
-    font-size: 32px;
+    font-size: 33px;
   }
 `;
 
